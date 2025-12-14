@@ -30,8 +30,8 @@ Analisar 4 anos de vendas da loja Superstore usando apenas SQL:
 1. Importe o CSV no MySQL
 2. Execute o arquivo `Projeto-MySQL.sql`
 
-Feito por: [Teu Nome]  
-LinkedIn: [link do teu LinkedIn]  
+Feito por: Breno Campos Franco  
+LinkedIn: www.linkedin.com/in/breno-franco  
 Disponível para estágio em Análise de Dados (remoto ou presencial em Fernandópolis/SP)
 
 Obrigado por visualizar meu projeto!
