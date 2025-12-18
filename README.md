@@ -1,37 +1,36 @@
-# Análise de Vendas - Superstore (SQL MySQL)
+# Análise de Vendas - Superstore (SQL + Power BI)
 
 Projeto de portfólio para estágio em Análise de Dados.
 
 ## Objetivo
-Analisar 4 anos de vendas da loja Superstore usando apenas SQL:
-- Faturamento, lucro, ticket médio
-- Top produtos e clientes
-- Identificação de prejuízos e oportunidades
+Análise completa de 4 anos de vendas da loja Superstore:
+- Extração e análise com SQL (MySQL)
+- Visualização interativa com Power BI
 
 ## Tecnologias
-- MySQL
+- SQL (MySQL)
+- Power BI Desktop
 - Dataset: Sample Superstore (9.994 linhas)
 
-## Principais Queries
-- Faturamento total por ano
-- Top 10 produtos mais vendidos
-- Ticket médio por região
-- Lucro por categoria
-- Clientes acima da média geral
-- Top 1 produto mais lucrativo por categoria
-- E mais...
-
-## Resultados principais
-![Top 10 produtos mais vendidos](top10_produtos_quantidade.png)
-![Clientes únicos por estado](clientes_unicos_por_estado.png)
-![Quantidade média vendida por produto](quantidade_media_por_produto.png)
+## Conteúdo
+- `Projeto-MySQL.sql`: Todas as queries (faturamento, lucro, top produtos, prejuízos, etc.)
+- `Dashboard_Superstore.pbix`: Dashboard interativo no Power BI (KPIs, mapa, gráficos, slicers)
+- `Sample - Superstore.csv`: Dataset original
+- Prints dos resultados das queries
 
 ## Como rodar
-1. Importe o CSV no MySQL
-2. Execute o arquivo `Projeto-MySQL.sql`
+1. **SQL**: Importe o CSV no MySQL e execute o arquivo .sql
+2. **Power BI**: Abra o arquivo .pbix no Power BI Desktop (gratuito)
 
-Feito por: Breno Campos Franco  
-LinkedIn: www.linkedin.com/in/breno-franco  
-Disponível para estágio em Análise de Dados (remoto ou presencial em Fernandópolis/SP)
+## Principais Insights
+- Technology é a categoria mais lucrativa
+- West é a região com maior faturamento
+- Alguns estados e categorias geram prejuízo → oportunidade de revisão
 
-Obrigado por visualizar meu projeto!
+Feito por: Breno Campos  
+LinkedIn: https://www.linkedin.com/in/breno-franco  
+GitHub: https://github.com/brenocampos13  
+
+Buscando estágio ou emprego junior em Análise de Dados (remoto ou SP) — disponível para conversar!
+
+Obrigado por visualizar meu projeto! 🚀
